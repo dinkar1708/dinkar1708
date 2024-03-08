@@ -1,3 +1,6 @@
+- 📫 You can reach me via email at dinkar1708@gmail.com.
+<br>
+
 - 👋 Hi, I’m Dinkar
 - 👀 I’m interested in providing free consulting services.
 - 🌱 I specialize in Android and iPhone application development using Swift, Kotlin, SwiftUI, Dart, Java languages using Android, Flutter, iOS framework.
@@ -12,6 +15,26 @@
 - Experience integrating AI/ML into mobile apps.
 - Extensive experience integrating internal and external system APIs.
 - Developing comprehensive specification documents, estimation, cross-team collaboration among designers, developers, managers, and QA members.
+
+# Production level android/iOS app using flutter riverpod
+- https://github.com/dinkar1708/flutter_riverpod_template
+
+# Production level android app along with test case 
+- https://github.com/dinkar1708/AndroidMVVMCleanArchitectureTemplate
+
+# Production level iOS app along with test case 
+- https://github.com/dinkar1708/github_repo_search_iOS_app
+
+# More demos apps
+- https://github.com/dinkar1708/iOS-SwiftUI-Clean-Architecture-MVVM
+- All training in swiftu UI - https://github.com/dinkar1708/SWIFT-UI-Training
+- https://github.com/dinkar1708/SwiftUIExample
+
+# Note:
+- My old GitHub account could not be recovered.
+- Feel free to check out my current account: [https://github.com/dinkar1708-zz](https://github.com/dinkar1708-zz).
+- All the repositories forked there are my own
+- ![Screenshot](https://github.com/dinkar1708/dinkar1708/assets/14831652/6a287022-d708-4564-b75a-74372e4d8076)
 
 <br>
 - 📫 You can reach me via email at dinkar1708@gmail.com.
