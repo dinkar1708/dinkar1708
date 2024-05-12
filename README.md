@@ -31,9 +31,9 @@
 - https://github.com/dinkar1708/SwiftUIExample
 
 # Note:
-- My old GitHub account could not be recovered.
-- Feel free to check out my current account: [https://github.com/dinkar1708-zz](https://github.com/dinkar1708-zz).
-- All the repositories forked there are my own
+- My old GitHub account could not be recovered.[https://github.com/dinkar1708-zz](https://github.com/dinkar1708-zz)
+- Feel free to check out my current account.
+- All the repositories forked there are my own from old account.
 - ![Screenshot](https://github.com/dinkar1708/dinkar1708/assets/14831652/6a287022-d708-4564-b75a-74372e4d8076)
 
 <br>
