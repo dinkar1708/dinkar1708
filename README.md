@@ -2,10 +2,8 @@
 <br>
 
 - 👋 Hi, I’m Dinkar
-- 👀 I’m interested in providing free consulting services.
 - 🌱 I specialize in Android and iPhone application development using Swift, Kotlin, SwiftUI, Dart, Java languages using Android, Flutter, iOS framework.
-- 💞️ I’m offering free suggestions and assistance to startups, students, or anyone in need.
-- Starting in 2012, with 11.3 years of experience in the IT industry having JLPT N2.
+- Starting in 2012, with 11.5 years of experience in the IT industry having JLPT N2.
 - Working across multiple technology majors, primarily focusing on mobile app(Flutter, Android, iOS)  development.
 - Leadership skills, trained junior staff, Working with a large team(1-15).
 - Involved in the entire lifecycle of projects including CI/CD,  building products from scratch to maintain existing projects.
@@ -21,7 +19,8 @@
 
 # Production level android app along with test case 
 - https://github.com/dinkar1708/AndroidMVVMCleanArchitectureTemplate
-
+- https://github.com/dinkar1708/GithubCruise
+  
 # Production level iOS app along with test case 
 - https://github.com/dinkar1708/github_repo_search_iOS_app
 
