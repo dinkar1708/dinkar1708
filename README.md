@@ -19,7 +19,7 @@
 
 # Production level android app along with test case 
 - https://github.com/dinkar1708/AndroidMVVMCleanArchitectureTemplate
-- https://github.com/dinkar1708/GithubCruise
+- https://github.com/dinkar1708/GithubCruiseAndroid
   
 # Production level iOS app along with test case 
 - https://github.com/dinkar1708/github_repo_search_iOS_app
